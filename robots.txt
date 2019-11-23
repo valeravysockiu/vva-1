@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /page8304630.html
+Disallow: /head
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://vysockii-back.tilda.ws/sitemap.xml
+Host: vysockii-back.tilda.ws
